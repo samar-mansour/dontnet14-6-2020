@@ -1,0 +1,7 @@
+C:\Users\LENOVO-1\source\repos\oopHW_1406\oopHW_1406\bin\Debug\oopHW_1406.exe.config
+C:\Users\LENOVO-1\source\repos\oopHW_1406\oopHW_1406\bin\Debug\oopHW_1406.exe
+C:\Users\LENOVO-1\source\repos\oopHW_1406\oopHW_1406\bin\Debug\oopHW_1406.pdb
+C:\Users\LENOVO-1\source\repos\oopHW_1406\oopHW_1406\obj\Debug\oopHW_1406.csprojAssemblyReference.cache
+C:\Users\LENOVO-1\source\repos\oopHW_1406\oopHW_1406\obj\Debug\oopHW_1406.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-1\source\repos\oopHW_1406\oopHW_1406\obj\Debug\oopHW_1406.exe
+C:\Users\LENOVO-1\source\repos\oopHW_1406\oopHW_1406\obj\Debug\oopHW_1406.pdb
